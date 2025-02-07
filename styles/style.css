@@ -181,3 +181,12 @@
   border: 2px solid gray;
   border-style: dashed;
 }
+/* footer section style  */
+.footer {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../assets/social-bg.png");
+  background-size: cover;
+}
